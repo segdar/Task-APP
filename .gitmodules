@@ -1,3 +1,6 @@
 [submodule "API-Rest-Task"]
 	path = API-Rest-Task
 	url = https://github.com/segdar/API-Rest-Task.git
+[submodule "FrontTask"]
+	path = FrontTask
+	url = https://github.com/segdar/FrontTask.git
